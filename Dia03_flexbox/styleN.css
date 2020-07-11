@@ -1,0 +1,81 @@
+.fondo{
+    background-color: #161664;
+    width: 650px;
+    height: 400px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.azul1{
+        width: 35%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.blanco1{
+   background-color: white;
+ width: 90%;
+ height: 42%;
+}
+
+.rojo1{
+   background-color: #d10a0a;
+ width: 90%;
+ height: 90%;
+}
+
+.blanco2{
+    background-color: white;
+ width: 90%;
+ height: 42%;
+ display: flex;
+ justify-content: flex-start;
+ align-items: flex-end;
+}
+
+
+.rojo2{
+   background-color:  #d10a0a;
+ width: 90%;
+ height: 90%;
+}
+.azul2{
+
+width: 65%;
+height: 100%;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-end;
+
+}
+
+.blanco3{
+    background-color: white;
+    width: 90%;
+    height: 42%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.rojo3{
+    background-color:  #d10a0a;
+ width: 95%;
+ height: 90%;
+}
+
+.blanco4{
+    background-color: white; 
+    width: 90%;
+    height: 42%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.rojo4{
+    background-color: #d10a0a ;
+ width: 95%;
+ height: 90%;
+}

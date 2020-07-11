@@ -1,0 +1,48 @@
+* {
+    background-color: white;
+}
+.links{
+    display: inline-block;
+  
+    margin-left: 1000px;
+}
+
+.goo{
+    width: 600px;
+    height: 300px;
+}
+.googlee{
+display: inline-block;
+margin-left: 350px;
+}
+
+.busqueda{
+    display: block;
+     margin-left: 100px;
+    width: 350px;
+    height: 25px;
+    border: solid 1px black;
+
+}
+.botones{
+margin-left: 150px;
+margin-top: 50px;
+}
+
+
+.buscar{
+    height: 40px;
+    width: 120px;
+    background-color: #d6d4ce;
+}
+
+.suerte{
+border-radius: 2px;
+    height: 40px;
+    background-color:  #d6d4ce;
+    
+
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,195 @@
+.grandes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 800px;
+    
+}
+    
+
+.hijo1{
+    border: solid black 2px;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.f{
+border: solid black 2px;
+width: 40%;
+height: 25%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.ff{
+    border: solid black 2px;
+    width: 40px;
+    height: 30px;
+}
+
+.fff{
+    border: solid black 2px;
+    width: 40px;
+    height: 30px;
+}
+
+.ffff{
+    border: solid black 2px;
+    width: 40px;
+    height: 30px;
+}
+
+.e{
+    border: solid black 2px;
+    width: 40%;
+    height: 25%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.ee{
+    border: solid black 2px;
+    width: 30%;
+    height: 25%;
+}
+
+.eee{
+    border: solid black 2px;
+    width: 30%;
+    height: 25%; 
+}
+
+.eeee{
+    border: solid black 2px;
+    width: 30%;
+    height: 25%;
+}
+
+.r{
+    border: solid black 2px;
+width: 40%;
+height: 25%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.rr{
+    border: solid black 2px;
+    width: 40px;
+    height: 30px;
+}
+
+.rrr{
+    border: solid black 2px;
+    width: 40px;
+    height: 30px;
+}
+
+.rrrr{
+    border: solid black 2px;
+    width: 40px;
+    height: 30px;
+}
+
+
+
+.hijo2{
+    border: solid black 2px;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.a{
+    border: solid black 2px;
+    width: 30%;
+    height: 30%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.aa{
+    border: solid black 2px;
+    width: 25%;
+    height: 25%;
+}
+
+.aaa{
+    border: solid black 2px;
+    width: 25%;
+    height: 25%; 
+}
+
+.aaaa{
+    border: solid black 2px;
+    width: 25%;
+    height: 25%;
+}  
+.m{
+    border: solid black 2px;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.mm{
+    border: solid black 2px;
+    width: 20%;
+    height: 25%;
+}
+
+.mmm{
+    border: solid black 2px;
+    width: 20%;
+    height: 25%;
+}
+
+.mmmm{
+    border: solid black 2px;
+    width: 20%;
+    height: 25%;
+}
+
+.i{
+    border: solid black 2px;
+    width: 30%;
+    height: 30%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ii{
+    border: solid black 2px;
+    width: 25%;
+    height: 25%;
+}
+
+.iii{
+    border: solid black 2px;
+    width: 25%;
+    height: 25%; 
+}
+
+.iiii{
+    border: solid black 2px;
+    width: 25%;
+    height: 25%; 
+}
